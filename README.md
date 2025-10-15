@@ -45,3 +45,4 @@ pytest Mass-Add-File-Name-tests -q
 
 ## License
 MIT
+2025-10-16 12:47:05 - docs: improve README with badges
