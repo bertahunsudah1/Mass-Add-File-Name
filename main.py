@@ -67,3 +67,4 @@ def main():
 
 if __name__ == "__main__":
     sys.exit(main())
+2025-10-16 12:47:05 - feat: improve generator behavior and schema parsing
