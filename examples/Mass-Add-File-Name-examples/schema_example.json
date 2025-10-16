@@ -1,0 +1,4 @@
+{
+  "id": {"type":"string","length":10},
+  "value": {"type":"int","min":1,"max":100}
+}
