@@ -1,3 +1,1 @@
-# Code of Conduct
-
-Be respectful.
+# Code of Conduct\nBe respectful.
