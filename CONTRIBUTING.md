@@ -1,3 +1,1 @@
-# Contributing
-
-Thanks for contributing. Open PRs/issues.
+# Contributing\nPlease read CONTRIBUTING.md\n
